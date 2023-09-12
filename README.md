@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/rammanis97" target="blank"><img src="https://img.shields.io/twitter/follow/rammanis97?logo=twitter&style=for-the-badge" alt="rammanis97" /></a> </p>
 
-- 🔭 I’m currently working on **Improving cloud-based solutions and also improving my full stack development. .**
+- 🔭 I’m currently working on **cloud-based solutions and also improving my full stack development.**
 
 - 🌱 I’m currently learning **Advanced Azure Services And Advanced Asp.net Concepts.**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+- 👯 I’m looking to collaborate on **Fullstack projects.**
 
 - 📝 I regularly write articles on [https://weekendcoderrms.blogspot.com/](https://weekendcoderrms.blogspot.com/)
 
 - 💬 Ask me about **C#, Java, JavaScript, React, Node.js, Azure, and any general software development questions.**
 
-- ⚡ Fun fact **I love creating content.**
+- ⚡ Fun fact **I love creating content & watching anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
